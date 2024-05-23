@@ -142,6 +142,7 @@ for numero in arreglo_numeros:
 print("Su arreglo de numeros con los ceros al final del arreglo es:" + str(arreglo_numeros))
 ```
 4. Revisar que son los algoritmos de sorting, entender bubble-sort (enlace a implementación).
+
 Los algoritmos de soarting ponen orden en los elementos de un conjunto, ya sea de menor a mayor o viceversa. Algunos ejemplos comunes son Bubble Sort, Selection Sort e Insertion Sort, los cuales son fáciles de implementar pero lentos para conjuntos grandes.
 
 Para conjuntos grandes, existen algoritmos más eficientes como Merge Sort, Quick Sort y Heap Sort, .
